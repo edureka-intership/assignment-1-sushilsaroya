@@ -1,0 +1,281 @@
+
+.navbar{
+    background-color: #ce0505;
+    height:80px;  
+
+}
+.edureka_sign{
+    width: 32px;
+    height: 47px;
+    margin-top: 16px;
+    margin-left: 112px;
+    text-align: center;
+    font:normal normal 600 33px/50px Poppins;
+    color: #ce0505;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 0.1em;
+}
+
+.login_button{
+    width: 43px;
+    height: 23px;
+    margin-top: 20px;
+    margin-left: 1015px;
+    width: 43px;
+    height: 23px;
+    text-align: left;
+    font: normal normal medium 16px/25px Poppins;
+    color: #FFFFFF;
+    opacity: 1;
+    background-color: #ce0505;
+    border-color: #ce0505;
+    display: inline-block;
+}
+.Create_an_account{
+    border: 1px;
+    margin-left: 50px;
+    border: 2px solid white;
+    border-width:0.1rem;
+    background-color: #ce0505;
+    padding:0.2rem;
+    color: white;
+    border-radius: 3px;
+    text-align: left;
+    opacity: 1;
+}
+.h1{
+    width: 514px;
+    height: 51px;
+    color: #192F60;
+    font-style:normal normal bold 36px/55px Poppins;
+    margin-top: 40px;
+    margin-left: 113px;
+    text-align: left;
+    letter-spacing: 0px;
+    opacity: 1;
+    text-size-adjust: 36px;
+}
+.sidebar{
+    width: 15%;
+    height: 730px;
+    margin-left:140px;
+    margin-top:5px;
+    box-shadow:0px 3px 6px #00000029;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    display: inline-block;
+}
+.filter{
+    width:55px;
+    height: 25px;
+    margin-top: 25px;
+    margin-left: 20x;
+    text-size-adjust: 18px;
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    color: #192F60;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+.location{
+    margin-top: 300rem;
+    margin-left: 140dp;
+    width: 106dp;
+    height: 20dp;
+    text-align: left;
+    font: normal normal normal 14dp/21dp Poppins;
+    color: #192F60;
+    opacity: 1;
+    padding-top: 10rem;
+    padding-left: 1rem;
+}
+
+.select_location{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 208px;
+    height: 35px;
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    opacity: 1;
+}
+.cuisine{
+    width: 52px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
+    color: #192F60;
+    text-align: left;
+    opacity: 1;
+    font: normal normal normal 14px/21px Poppins;
+    padding-top: 1;
+}
+#North_Indian{
+    margin-top: 15px;
+    margin-left: 5px;
+    width: 40px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    color: #8C96AB;
+    opacity: 1;
+    
+}
+.cost_for_two{
+    width: 80px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
+    color: #192F60;
+    text-align: left;
+    opacity: 1;
+    font: normal normal normal 14px/21px Poppins;
+    padding-top: 1;
+}
+#cost_range{
+    margin-top: 15px;
+    margin-left: 5px;
+    width: 40px;
+    height: 20px;
+    text-align: left;
+    color: #8C96AB;
+    opacity: 1;
+    letter-spacing: 0px;
+}
+
+.sort{
+    width: 52px;
+    height: 20px;
+    margin-left:15px;
+    margin-top: 15px;
+    text-align: left;
+    font: normal normal 600 18dp/27dp Poppins;
+    letter-spacing: 0dp;
+    color: #192F60;
+    opacity: 1;
+    
+}
+#price_sort{
+    width:40px;
+    height:20px;
+    margin-top: 15px;
+    margin-left: 5px;
+    font:normal normal normal 14dp/17dp Rupee Foradian;
+    letter-spacing: 0dp;
+    color: #8C96AB;
+    opacity: 1;
+}
+.Item {
+    width: 80%;
+    height: 220px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-bottom: 25px;
+    margin-left: 3%;
+    margin-top: 12px;
+    padding-bottom: 2px;
+    display: inline-block;
+
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 35px;
+    margin-left: 25%;
+}
+
+.rest-name {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.rest-location {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.rest-address {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.Bakery {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.big {
+    display: inline-block;
+    width: 68%;
+}
+
+.vertical {
+    vertical-align: top;
+}
+
+.small {
+    display: inline-block;
+    width: 28%;
+}
+
+.big-item {
+    display: inline-block;
+    width: 68%;
+}
+
+.small-item {
+    display: inline-block;
+    width: 28%;
+}
+
+.margin-left {
+    margin-left: 7%
+}
+
+.pagination {
+    display: inline-block;
+    margin-left: 275px;
+    margin-top: 10px;
+}
+
+.pagination a {
+    color: gray;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: solid 1px gray;
+    border-radius: 15px;
+    margin: 2px;
+}
+
